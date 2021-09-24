@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **mmoghadam11/mmoghadam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 👨‍🎓  📧
 -->
 ### Hi, this is mahdiyar moghadam 
-- 👨‍🎓 Master student of Shahid Beheshtiy University</li>
-- 📧Contact Me : <a href="mailto:mah.moghadam@mail.sbu.ac.ir">mah.moghadam@mail.sbu.ac.ir</a></li>
+- Master student of Shahid Beheshtiy University</li>
+- Contact Me : <a href="mailto:mah.moghadam@mail.sbu.ac.ir">mah.moghadam@mail.sbu.ac.ir</a></li>
 
 #### Skills and Tools: 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> 
