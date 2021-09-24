@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, this is csuhan
-- Master student of Wuhan University</li>
-- Website: <a href="https://csuhan.com">csuhan.com</a></li>
-- Contact Me: <a href="mailto:hanjiaming@whu.edu.cn">hanjiaming@whu.edu.cn</a></li>
+### Hi, this is mahdiyar moghadam 
+- 👨‍🎓 Master student of Shahid Beheshtiy University</li>
+- 📧Contact Me : <a href="mailto:mah.moghadam@mail.sbu.ac.ir">mah.moghadam@mail.sbu.ac.ir</a></li>
 
 #### Skills and Tools: 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> 
