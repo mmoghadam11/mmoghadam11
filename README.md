@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2> Hi, this is mahdiyar moghadam </h2> 
 <li> Master student of Shahid Beheshtiy University</li>
 <li> Contact Me : <a href="mailto:mah.moghadam@mail.sbu.ac.ir">mah.moghadam@mail.sbu.ac.ir</a></li>
-<li> WhatsApp : +989361794967 
+<li> WhatsApp : <a href="https://api.whatsapp.com/send?phone=+989361794967"> <img src="https://www.svgrepo.com/show/176768/whatsapp-social-media.svg" alt="python" width="20" height="20"/>	 </a> </li>
 
 #### Skills and Tools: 
 + Machine Learning : <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> 
